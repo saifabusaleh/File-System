@@ -2,7 +2,7 @@
 
 Design and implement a program which will handle and manage a "File System" structure.
 
-## The file system contains the following entities and operations: ##
+### The file system contains the following entities and operations: ###
 
 #### A File is defined as having: ####
 
@@ -26,21 +26,21 @@ The program will include the following functionalities:
 
 #### Function Prototype ####
 
-* addFile (string parentDirName, String fileName, integer fileSize)
+**addFile(string parentDirName, String fileName, integer fileSize)**
 
 Adds new File under the Directory branch
 
-* addDir (string parentDirName, String dirName)
+**addDir(string parentDirName, String dirName)**
 
 Adds new Directory under the parent Directory
 
-* delete (string name)
+**delete(string name)**
 
 Deletes the Directory or the File with this name
 
-* showFileSystem ()
+**showFileSystem()**
 
-Displays all files & directories with their hierarchical structure (for file display all file properties and for Directory all its properties)  
+Displays all files & directories with their hierarchical structure (for file display all file properties and for Directory all its properties)
 
  
 
