@@ -1,4 +1,4 @@
-# In memory file system project #
+# In Memory Virtual File System Project #
 
 Design and implement a program which will handle and manage a "File System" structure.
 
