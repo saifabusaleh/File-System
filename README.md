@@ -1,6 +1,6 @@
 # In Memory Virtual File System Project #
 
-Design and implement a program which will handle and manage a "File System" structure.
+implementation of a program which will handle and manage a "File System" structure.
 
 ### The file system contains the following entities and operations: ###
 
